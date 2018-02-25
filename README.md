@@ -15,6 +15,11 @@ my $SMTP_CONF =
      auth_pw=> 'password' #Yahooアカウントのパスワード
     };
 ```
+Edit subject
+```perl
+my $subject_org = '在庫を確認しました';
+```
+
 
 Edit E-mail contents
 ```perl
