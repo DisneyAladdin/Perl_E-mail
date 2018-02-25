@@ -62,8 +62,10 @@ sub publish_test_mail {
     	}
     	my $mailto_str = join(',', @$mailto );
     	my $message =<<EOF;
+# Please edit here!!
 Hello! This E-mail is automatically sent from Perl program.
 Please check the item
+# As you can see, variables can be adapted.
 
 【NAME】: $name
 【STORE】: $store
