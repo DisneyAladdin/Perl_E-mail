@@ -1,6 +1,8 @@
 # Perl_E-mail
 To send E-mail from perl program
 
+<img src="https://github.com/shutokawabata0723/Perl_E-mail/blob/master/email.png" width="500px">
+
 # How to use
 Edit SMTP server and E-mail address.
 ```perl
