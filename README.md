@@ -27,3 +27,14 @@ Please check the item
 【URL】 : $url
 EOF
 ```
+
+
+# Licence
+CopyRight (c) 2018 Shuto Kawabata
+
+Released under the MIT licence
+
+https://opensource.org/licenses/MIT
+
+# Author
+Shuto Kawabata
